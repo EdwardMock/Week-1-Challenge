@@ -14,7 +14,7 @@ Assignment Requirements:
 10. Deployed to live url
 
 ## Link to live
-[View Website](https:/www.google.com "View Page")
+[View Website](https://edwardmock.github.io/Week-1-Challenge/ "View Website")
 
 ## Screenshot
 ![alt text](https://i.imgur.com/XddOdzm.jpeg "Screenshot of Website")
