@@ -1,5 +1,5 @@
-#Horiseon Website 
-##Week 1 Challenge | UofU Coding Bootcamp
+# Horiseon Website 
+## Week 1 Challenge | UofU Coding Bootcamp
 
 Assignment Requirements:
 1. Use semantic HTML Elements
@@ -13,8 +13,8 @@ Assignment Requirements:
 9. In a repository using best practices
 10. Deployed to live url
 
-##Link to live
+## Link to live
 [View Website](https:/www.google.com "View Page")
 
-##Screenshot
+## Screenshot
 ![alt text](https://i.imgur.com/XddOdzm.jpeg "Screenshot of Website")
