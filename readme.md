@@ -1,7 +1,9 @@
-# Horiseon Website 
+# Horiseon Website
+
 ## Week 1 Challenge | UofU Coding Bootcamp
 
 Assignment Requirements:
+
 1. Use semantic HTML Elements
 2. Elements follow logical structure
 3. Image elements have alt attributes
@@ -14,8 +16,10 @@ Assignment Requirements:
 10. Deployed to live url
 
 ## Link to live
+
 [View Website](https://edwardmock.github.io/Week-1-Challenge/ "View Website")
 
 ## Screenshot
+
 ![alt text](https://i.imgur.com/XddOdzm.jpeg "Screenshot of Website")
-![alt text](https://i.imgur.com/Lje5mD2.png "Second screenshot ofwebsite") 
+![alt text](https://i.imgur.com/Lje5mD2.png "Second screenshot ofwebsite")
